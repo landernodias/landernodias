@@ -8,7 +8,7 @@
 
 <h3>📚 University graduate</h3>
 
-<img src="https://user-images.githubusercontent.com/33238924/202262435-9fcb968b-05c3-4f8a-8925-3d99d46ea22d.png" width="600" heigth="250">
+<a href="https://computacao.jatai.ufg.br/"  target="_blank"><img src="https://user-images.githubusercontent.com/33238924/202262435-9fcb968b-05c3-4f8a-8925-3d99d46ea22d.png" width="600" heigth="250"></a>
 
 <h2>👨 Social</h2>
 
