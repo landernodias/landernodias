@@ -5,7 +5,11 @@
 </p>
 
 <p>Full-Stack Developer Node.JS, Java, Javascript, Typescript and PHP, FrameWorks: @Angular, Spring Boot I also have knowledge in Postgresql and Mysql Database.</p>
-<br />
+
+<h3>📚 University graduate</h3>
+
+<img src="https://user-images.githubusercontent.com/33238924/202262435-9fcb968b-05c3-4f8a-8925-3d99d46ea22d.png" width="600" heigth="250">
+
 <h2>👨 Social</h2>
 
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
