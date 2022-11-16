@@ -1,10 +1,10 @@
 <p align="center"> 
    <img width="100px" src="https://user-images.githubusercontent.com/33238924/202206958-43ad4c9b-dd69-4c2e-8a65-2f9421e9a894.png" align="center" alt="GitHub Readme Stats" />
-   <h2 align="center">GitHub Redme Stats</h2>
-   <p align="center"> Hi!! 👋 I am, Nelcione Valério Dias</p>
+   <h2 align="center" style="Color: red;">Aboot me</h2>
+   <p align="center"> Hi!! 👋 I am, Nelcione Valério Dias, I live in Brazil :brazil:</p>
 </p>
 
-<p>Full-Stack Developer Node.JS, Java, Javascript, Typescript and PHP, FrameWorks: @Angular, Spring Boot I also have knowledge in Postgresql and Mysql Database.</p>
+<p>I'm a developer Full-Stack I've worked with the following technologies: Node.JS, Java, Javascript, Typescript and PHP, FrameWorks: @Angular, Spring Boot I also have knowledge in Postgresql and Mysql Database.</p>
 
 <h3>📚 University graduate</h3>
 
@@ -16,6 +16,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nelcionedias/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nelcionedias/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nelcionedias@gmail.com)
+[![Whatsapp]()](https://wa.me/64999438722)
 ![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 
 
