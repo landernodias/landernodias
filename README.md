@@ -67,7 +67,7 @@
 
 | | | |
 | :--: | :--: | :--: |
-![transparent][proj_auth-front-angular] | ![transparent][proj_Angular_DarkThema] | ![transparent][workshop-angular-server-jwt]
+[![transparent][proj_auth-front-angular]](https://github.com/landernodias/auth-front-angular) | ![transparent][proj_Angular_DarkThema] | ![transparent][workshop-angular-server-jwt]
 ![transparent][routes-guards] | ![transparent][codeblog] | ![transparent][workshop-parking-control]
 ![transparent][app-task-angular] | ![transparent][pokedex] | ![transparent][chess-system-java]
 ![transparent][SASS-training] | ![transparent][demo-dao-jdbc] | ![transparent][workshop_javafx_jdbc]
