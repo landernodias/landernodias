@@ -67,11 +67,11 @@
 
 | | | |
 | :--: | :--: | :--: |
-[![transparent][proj_auth-front-angular]](https://github.com/landernodias/auth-front-angular) | ![transparent][proj_Angular_DarkThema] | ![transparent][workshop-angular-server-jwt]
-![transparent][routes-guards] | ![transparent][codeblog] | ![transparent][workshop-parking-control]
-![transparent][app-task-angular] | ![transparent][pokedex] | ![transparent][chess-system-java]
-![transparent][SASS-training] | ![transparent][demo-dao-jdbc] | ![transparent][workshop_javafx_jdbc]
-![transparent][workshop-spring-boot-mongodb] | ![transparent][workshop-springboot-2-java-11] | :--:
+[![transparent][proj_auth-front-angular]](https://github.com/landernodias/auth-front-angular) | [![transparent][proj_Angular_DarkTheme]](https://github.com/landernodias/dark-theme) | [![transparent][workshop-angular-server-jwt]](https://github.com/landernodias/workshop-angular-server-jwt)
+[![transparent][routes-guards]](https://github.com/landernodias/routes-guards) | [![transparent][codeblog]](https://github.com/landernodias/codeblog) | [![transparent][workshop-parking-control]](https://github.com/landernodias/workshop-parking-control)
+[![transparent][app-task-angular]](https://github.com/landernodias/app-task-angular) | [![transparent][pokedex]](https://github.com/landernodias/pokedex) | [![transparent][chess-system-java]](https://github.com/landernodias/chess-system-java)
+[![transparent][SASS-training]](https://github.com/landernodias/SASS-training) | [![transparent][demo-dao-jdbc]](https://github.com/landernodias/demo-dao-jdbc) | [![transparent][workshop_javafx_jdbc]](https://github.com/landernodias/workshop_javafx_jdbc)
+[![transparent][workshop-spring-boot-mongodb]](https://github.com/landernodias/workshop-spring-boot-mongodb) | [![transparent][workshop-springboot-2-java-11]](https://github.com/landernodias/workshop-springboot-2-java-11) | :--:
 | | |
 
 ### My Linguages 
@@ -80,7 +80,7 @@
 
 [tokyonight]: https://github-readme-stats.vercel.app/api?username=landernodias&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=tokyonight
 [proj_auth-front-angular]: https://github-readme-stats.vercel.app/api/pin/?username=landernodias&repo=auth-front-angular&cache_seconds=86400&theme=transparent
-[proj_Angular_DarkThema]: https://github-readme-stats.vercel.app/api/pin/?username=landernodias&repo=dark-theme&cache_seconds=86400&theme=transparent
+[proj_Angular_DarkTheme]: https://github-readme-stats.vercel.app/api/pin/?username=landernodias&repo=dark-theme&cache_seconds=86400&theme=transparent
 [workshop-angular-server-jwt]: https://github-readme-stats.vercel.app/api/pin/?username=landernodias&repo=workshop-angular-server-jwt&cache_seconds=86400&theme=transparent
 [codeblog]: https://github-readme-stats.vercel.app/api/pin/?username=landernodias&repo=codeblog&cache_seconds=86400&theme=transparent
 [workshop-parking-control]: https://github-readme-stats.vercel.app/api/pin/?username=landernodias&repo=workshop-parking-control&cache_seconds=86400&theme=transparent
