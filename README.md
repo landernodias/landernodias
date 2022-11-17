@@ -52,9 +52,9 @@
 <br />
 <h2>💻 OS</h2>
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)|
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white|
 )
 
 <h2>📊 statistic</h2>
@@ -65,11 +65,32 @@
 
 ### Project using Java
 
-![transparent][transparent_repo]
+| | | |
+| :--: | :--: | :--: |
+![transparent][proj_auth-front-angular] | ![transparent][proj_Angular_DarkThema] | ![transparent][workshop-angular-server-jwt]
+![transparent][routes-guards] | ![transparent][codeblog] | ![transparent][workshop-parking-control]
+![transparent][app-task-angular] | ![transparent][pokedex] | ![transparent][chess-system-java]
+![transparent][SASS-training] | ![transparent][demo-dao-jdbc] | ![transparent][workshop_javafx_jdbc]
+![transparent][workshop-spring-boot-mongodb] | ![transparent][workshop-springboot-2-java-11] | :--:
+| | |
 
 ### My Linguages 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=landernodias&layout=compact)](https://github.com/landernodias/github-readme-stats)
 
 
 [tokyonight]: https://github-readme-stats.vercel.app/api?username=landernodias&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=tokyonight
-[transparent_repo]: https://github-readme-stats.vercel.app/api/pin/?username=landernodias&repo=workshop_javafx_jdbc&cache_seconds=86400&theme=transparent
+[proj_auth-front-angular]: https://github-readme-stats.vercel.app/api/pin/?username=landernodias&repo=auth-front-angular&cache_seconds=86400&theme=transparent
+[proj_Angular_DarkThema]: https://github-readme-stats.vercel.app/api/pin/?username=landernodias&repo=dark-theme&cache_seconds=86400&theme=transparent
+[workshop-angular-server-jwt]: https://github-readme-stats.vercel.app/api/pin/?username=landernodias&repo=workshop-angular-server-jwt&cache_seconds=86400&theme=transparent
+[codeblog]: https://github-readme-stats.vercel.app/api/pin/?username=landernodias&repo=codeblog&cache_seconds=86400&theme=transparent
+[workshop-parking-control]: https://github-readme-stats.vercel.app/api/pin/?username=landernodias&repo=workshop-parking-control&cache_seconds=86400&theme=transparent
+[SisOS]: https://github-readme-stats.vercel.app/api/pin/?username=landernodias&repo=SisOS&cache_seconds=86400&theme=transparent
+[routes-guards]: https://github-readme-stats.vercel.app/api/pin/?username=landernodias&repo=routes-guards&cache_seconds=86400&theme=transparent
+[app-task-angular]: https://github-readme-stats.vercel.app/api/pin/?username=landernodias&repo=app-task-angular&cache_seconds=86400&theme=transparent
+[pokedex]: https://github-readme-stats.vercel.app/api/pin/?username=landernodias&repo=pokedex&cache_seconds=86400&theme=transparent
+[chess-system-java]: https://github-readme-stats.vercel.app/api/pin/?username=landernodias&repo=chess-system-java&cache_seconds=86400&theme=transparent
+[SASS-training]: https://github-readme-stats.vercel.app/api/pin/?username=landernodias&repo=SASS-training&cache_seconds=86400&theme=transparent
+[demo-dao-jdbc]: https://github-readme-stats.vercel.app/api/pin/?username=landernodias&repo=demo-dao-jdbc&cache_seconds=86400&theme=transparent
+[workshop_javafx_jdbc]: https://github-readme-stats.vercel.app/api/pin/?username=landernodias&repo=workshop_javafx_jdbc&cache_seconds=86400&theme=transparent
+[workshop-spring-boot-mongodb]: https://github-readme-stats.vercel.app/api/pin/?username=landernodias&repo=workshop-spring-boot-mongodb&cache_seconds=86400&theme=transparent
+[workshop-springboot-2-java-11]: https://github-readme-stats.vercel.app/api/pin/?username=landernodias&repo=workshop-springboot-2-java-11&cache_seconds=86400&theme=transparent
