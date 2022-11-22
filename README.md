@@ -59,9 +59,8 @@
 
 <h2>📊 statistic</h2>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=landernodias&show_icons=true&theme=merko)
 
-
-[![tokyonight][tokyonight]](https://github.com/landernodias?tab=repositories)
 
 ### My Projects
 
