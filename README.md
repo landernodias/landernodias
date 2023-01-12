@@ -61,6 +61,11 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=landernodias&show_icons=true&theme=merko)
 
+<div align="center">
+  
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
 
 ### My Projects
 
@@ -76,11 +81,6 @@
 ### My Linguages 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=landernodias&layout=compact)](https://github.com/landernodias/github-readme-stats)
 
-<div align="center">
-  
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
 
 
 [tokyonight]: https://github-readme-stats.vercel.app/api?username=landernodias&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=tokyonight
